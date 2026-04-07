@@ -1,0 +1,14 @@
+---
+id: fla-lighthouses
+name: FLA Lighthouses
+summary: Displays Florida lighhouses
+desc: Displays Florida Lighhouse locations.
+author: Robert Ison
+fileName: fla_lighthouses.star
+packageName: flalighthouses
+recommendedInterval: 5
+category: utilities
+tags:
+  - local
+  - utility
+  - nature
